@@ -1,9 +1,5 @@
-# 💫 About Me:
-
 # 🙋‍♀️Hi, I'm Ashi Sengar
-
 <br><br>💻 Building AI-powered and full-stack applications with a focus on solving real-world problems.<br><br>🌱 Continuously learning and exploring modern technologies, scalable systems, and Artificial Intelligence.<br><br>📚 Strengthening problem-solving skills through Data Structures & Algorithms and hands-on projects.<br><br>🤝 Open to collaborating on innovative projects and meaningful learning opportunities.<br><br>☕ Fueled by curiosity, code, and coffee.<br><br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashi-sengar-0bb4b4292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashisengar190@gmail.com) 
 
@@ -16,7 +12,7 @@
 
 ### ✍️
 
-> *"Powered by code, fueled by coffee, and driven by curiosity."*
+> *Powered by code, fueled by coffee, and driven by curiosity.*
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AshiSengar&limit=5&theme=dark&combine_all_yearly_contributions=true)
