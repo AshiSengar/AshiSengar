@@ -1,9 +1,8 @@
 # 💫 About Me:
+
 # 🙋‍♀️Hi, I'm Ashi Sengar
+
 <br><br>💻 Building AI-powered and full-stack applications with a focus on solving real-world problems.<br><br>🌱 Continuously learning and exploring modern technologies, scalable systems, and Artificial Intelligence.<br><br>📚 Strengthening problem-solving skills through Data Structures & Algorithms and hands-on projects.<br><br>🤝 Open to collaborating on innovative projects and meaningful learning opportunities.<br><br>☕ Fueled by curiosity, code, and coffee.<br><br>
-
-## Connect<br><br>* Portfolio: [https://portfolio-weld-delta-61.vercel.app/]<br>* LinkedIn: [https://www.linkedin.com/in/ashi-sengar-0bb4b4292]<br>* GitHub: [https://github.com/AshiSengar]<br>* Email: **[ashisengar190@gmail.com](mailto:ashisengar190@gmail.com)**<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashi-sengar-0bb4b4292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashisengar190@gmail.com) 
@@ -15,7 +14,7 @@
 ![](https://streak-stats.demolab.com/?user=AshiSengar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshiSengar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Quote
+### ✍️
 
 > *"Powered by code, fueled by coffee, and driven by curiosity."*
 
