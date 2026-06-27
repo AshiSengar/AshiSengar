@@ -1,5 +1,5 @@
-# 🙋‍♀️Hi, I'm Ashi Sengar
-<br>💻 Building AI-powered and full-stack applications with a focus on solving real-world problems.<br><br>🌱 Continuously learning and exploring modern technologies, scalable systems, and Artificial Intelligence.<br><br>📚 Strengthening problem-solving skills through Data Structures & Algorithms and hands-on projects.<br><br>🤝 Open to collaborating on innovative projects and meaningful learning opportunities.<br><br>☕ Fueled by curiosity, code, and coffee.<br>
+# 🙋🏻‍♀️Hi, I'm Ashi Sengar
+<br>💻 Building AI-powered and full-stack applications with a focus on solving real-world problems.<br><br>🌱 Continuously learning and exploring modern technologies, scalable systems, and Artificial Intelligence.<br><br>📚 Strengthening problem-solving skills through Data Structures & Algorithms and hands-on projects.<br><br>🤝🏻 Open to collaborating on innovative projects and meaningful learning opportunities.<br><br>☕ Fueled by curiosity, code, and coffee.<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashi-sengar-0bb4b4292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashisengar190@gmail.com) 
 
@@ -10,9 +10,7 @@
 ![](https://streak-stats.demolab.com/?user=AshiSengar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshiSengar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️
-
-> *Powered by code, fueled by coffee, and driven by curiosity.*
+## ✍🏻 *Powered by code, fueled by coffee, and driven by curiosity.*
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AshiSengar&limit=5&theme=dark&combine_all_yearly_contributions=true)
